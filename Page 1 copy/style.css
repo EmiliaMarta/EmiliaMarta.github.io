@@ -1,0 +1,72 @@
+
+
+div{
+
+height: 600px;
+width: 1800px;
+
+
+}
+
+#ruta4{
+
+background-color: aqua;
+
+}
+
+#ruta1{
+
+height: 400px;
+width: 1000px;
+
+    background-color: #ff00cc;
+
+}
+
+#ruta2{
+
+height: 400px;
+width: 100px;
+
+}
+
+#ruta3{
+
+height: 400px;
+width: 700px;
+
+background-color: blueviolet;
+
+}
+
+#container{
+
+height: 500px;
+width: 1800px;
+
+display: flex;
+
+}
+
+#ruta5{
+
+height: 100px;
+width: 1800px;
+
+}
+
+#ruta6{
+
+height: 400px;
+width: 1800px;
+
+background-color: #bf325a;
+
+}
+
+
+
+
+
+
+
